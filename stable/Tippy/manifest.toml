@@ -1,10 +1,7 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/Tippy.git"
-owners = [ "kalilistic", "Critical-Impact" ]
+owners = [ "kalilistic", "Critical-Impact",]
 project_path = "src/Tippy"
-commit = "3bfc85a7ead14310c53cc628fbe0efaca6fcc957"
+commit = "a3425dd8f685c4e802fa3728bec6ba6f15218127"
 version = "1.14.0.0"
-changelog = """\
-### Fixed
-- Support for 7.4
-"""
+changelog = "### Fixed\n- Support for 7.4"
