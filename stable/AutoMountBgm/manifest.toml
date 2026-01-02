@@ -2,8 +2,6 @@
 repository = "https://github.com/Critical-Impact/AutoMountBGM.git"
 owners = [ "Critical-Impact",]
 project_path = ""
-commit = "2d6b5efe0c54d8da45c5fc9aa1affd3c6bb4eb64"
-changelog = """\
-### Fixed
-- Support for 7.4
-"""
+commit = "ea70ff765cc1bc1b0a438b6fe038dc73f782cc01"
+changelog = "### Fixed\n- Support for 7.4"
+version = "1.3.0.0"
